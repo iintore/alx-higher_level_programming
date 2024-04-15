@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""script that fetches alu-intranet.hbtn.io status using urllib"""
+"""script that fetches alx-intranet.hbtn.io status using urllib"""
 
 import urllib.request
 
